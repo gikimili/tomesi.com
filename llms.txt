@@ -1,0 +1,40 @@
+# Tomesi
+
+> Tomesi is an AI assistant app for iPhone that runs entirely on the device. After a one-time model download, it works with no internet connection, even in airplane mode. Conversations and documents never leave the phone. No account, no subscription, no ads: a one-time purchase on the App Store. Tomesi was previously named MonIA.
+
+## Key facts
+
+- Platform: iPhone 15 Pro or newer (8 GB of RAM) with iOS 26 or later. App Store: https://apps.apple.com/app/id6783248212
+- Privacy: everything is processed on the device. App Store privacy label: "Data Not Collected". No account, no analytics, no tracking.
+- Offline use: the AI model is downloaded once through Apple's delivery system (about 1.7 GB). After that, no connection is needed.
+- Models: open-weight models run on the iPhone with Apple MLX. Standard mode uses Qwen 3.5 2B. The optional Precision mode (about 3 GB more) uses Gemma 4 E2B for more accurate answers.
+- Features: chat, voice conversation with on-device dictation and read-aloud, document scanning, questions about PDFs, conversation search, custom assistants with their own documents, photo analysis.
+- Languages: interface in English, French, German, Spanish, Italian, Dutch, Polish, Portuguese (Brazil and Portugal), Japanese, Korean, Simplified Chinese and Russian. The assistant can answer in more languages.
+- Pricing: one-time purchase. No subscription, no in-app purchase.
+- Limits: smaller than cloud assistants such as ChatGPT, so answers are less encyclopedic and can contain mistakes. No web browsing: answers come from the model's built-in knowledge and the user's own documents.
+- Developer: independent developer based in France. Support: support@tomesi.com
+
+## Pages
+
+- [Home (French)](https://tomesi.com/): features and FAQ
+- [Home (English)](https://tomesi.com/en.html): features and FAQ
+- [Guide: offline AI on iPhone](https://tomesi.com/offline-ai-iphone.html): how on-device AI works, limits, how to choose an app
+- [Guide in French: IA hors ligne sur iPhone](https://tomesi.com/ia-hors-ligne-iphone.html)
+- [Support and legal notice](https://tomesi.com/support.html)
+- [Privacy policy](https://tomesi.com/privacy_en.html)
+- [Terms of use](https://tomesi.com/terms_en.html)
+- [Open-source notices](https://tomesi.com/open_source_notices.html)
+
+## Other languages
+
+- [Deutsch](https://tomesi.com/de/)
+- [Español](https://tomesi.com/es/)
+- [Italiano](https://tomesi.com/it/)
+- [Nederlands](https://tomesi.com/nl/)
+- [Polski](https://tomesi.com/pl/)
+- [Português (Brasil)](https://tomesi.com/pt-br/)
+- [Português (Portugal)](https://tomesi.com/pt-pt/)
+- [日本語](https://tomesi.com/ja/)
+- [한국어](https://tomesi.com/ko/)
+- [Русский](https://tomesi.com/ru/)
+- [简体中文](https://tomesi.com/zh/)

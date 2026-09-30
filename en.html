@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index, follow">
+<title>Tomesi — The AI that works without internet, on your iPhone</title>
+<meta name="description" content="Tomesi is a fully offline AI assistant for iPhone: your conversations never leave your phone. No account, no subscription — one-time purchase.">
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta property="og:title" content="Tomesi — The AI that works without internet">
+<meta property="og:description" content="A private AI assistant, right on your iPhone. On a plane, abroad, off the grid: Tomesi answers. No account, no subscription.">
+<meta property="og:image" content="https://tomesi.com/assets/screen-chat-en.jpg">
+<meta property="og:url" content="https://tomesi.com/en.html">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://tomesi.com/en.html">
+<link rel="alternate" hreflang="fr" href="https://tomesi.com/">
+<link rel="alternate" hreflang="en" href="https://tomesi.com/en.html">
+<link rel="alternate" hreflang="de" href="https://tomesi.com/de/">
+<link rel="alternate" hreflang="es" href="https://tomesi.com/es/">
+<link rel="alternate" hreflang="it" href="https://tomesi.com/it/">
+<link rel="alternate" hreflang="nl" href="https://tomesi.com/nl/">
+<link rel="alternate" hreflang="pl" href="https://tomesi.com/pl/">
+<link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/pt-br/">
+<link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/pt-pt/">
+<link rel="alternate" hreflang="ja" href="https://tomesi.com/ja/">
+<link rel="alternate" hreflang="ko" href="https://tomesi.com/ko/">
+<link rel="alternate" hreflang="ru" href="https://tomesi.com/ru/">
+<link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/zh/">
+<link rel="alternate" hreflang="x-default" href="https://tomesi.com/en.html">
+<meta name="apple-itunes-app" content="app-id=6783248212">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Tomesi",
+  "url": "https://tomesi.com/en.html",
+  "description": "Fully offline AI assistant for iPhone: the AI runs on the phone and conversations never leave it. No account, no subscription, one-time purchase.",
+  "operatingSystem": "iOS 26",
+  "applicationCategory": "Productivity",
+  "inLanguage": "en",
+  "isAccessibleForFree": false,
+  "installUrl": "https://apps.apple.com/app/id6783248212",
+  "image": "https://tomesi.com/assets/apple-touch-icon.png",
+  "screenshot": "https://tomesi.com/assets/screen-chat-en.jpg",
+  "featureList": [
+    "Works with no internet connection, even in airplane mode",
+    "Conversations stored only on the device, no data collected",
+    "Voice conversation: dictation and read-aloud",
+    "Document scanning and questions about PDFs",
+    "Custom assistants with their own documents",
+    "Interface in 13 languages"
+  ]
+}
+</script>
+<style>
+  :root {
+    color-scheme: light dark;
+    --ink: #1c1c1e; --paper: #fff; --muted: #6e6e73;
+    --accent: #3a74ae; --accent-ink: #fff;
+    --card: #f5f6f8; --line: rgba(127,127,127,.25);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink: #e6e6e6; --paper: #0b0b0c; --muted: #9a9aa0; --card: #16161a; }
+  }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         line-height: 1.6; margin: 0; color: var(--ink); background: var(--paper);
+         -webkit-text-size-adjust: 100%; }
+  a { color: var(--accent); }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+
+  /* Hero — dégradé de la marque (toujours sombre) */
+  .hero { background: linear-gradient(135deg, #0D1B38 0%, #162758 45%, #183E60 100%); color: #F5F8FF; }
+  .hero .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 32px; padding-top: 48px; padding-bottom: 56px; }
+  .hero-text { flex: 1 1 340px; }
+  .hero-shot { flex: 0 1 260px; margin: 0 auto; }
+  .hero-shot img { width: 100%; max-width: 280px; height: auto; display: block;
+                   border-radius: 24px; box-shadow: 0 24px 60px rgba(0,0,0,.45); }
+  .brand { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
+  .brand img { width: 44px; height: 44px; border-radius: 10px; }
+  .brand strong { font-size: 1.15rem; letter-spacing: .02em; }
+  .brand nav { margin-left: auto; font-size: .9rem; }
+  .brand nav a { color: #9EBCEC; text-decoration: none; margin-left: 16px; }
+  h1 { font-size: clamp(1.7rem, 4.5vw, 2.5rem); line-height: 1.2; margin: 0 0 .6rem; }
+  .tagline { font-size: 1.05rem; color: #c9d6ef; margin: 0 0 1.6rem; max-width: 34em; }
+  .cta { display: inline-block; background: #F5F8FF; color: #0D1B38; font-weight: 600;
+         padding: 12px 22px; border-radius: 12px; text-decoration: none; }
+  .cta-note { font-size: .85rem; color: #9EBCEC; margin-top: .6rem; }
+
+  /* Sections */
+  section { padding: 44px 0; }
+  section + section { border-top: 1px solid var(--line); }
+  h2 { font-size: 1.35rem; margin: 0 0 1.2rem; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border-radius: 14px; padding: 18px 20px; }
+  .card h3 { margin: 0 0 .4rem; font-size: 1.02rem; }
+  .card p { margin: 0; font-size: .95rem; color: var(--muted); }
+  .card .pic { font-size: 1.6rem; line-height: 1; margin-bottom: .5rem; }
+
+  ol.steps { padding-left: 1.2rem; margin: 0; }
+  ol.steps li { margin: .7rem 0; }
+  ol.steps b { font-weight: 600; }
+  .steps-note { font-size: .9rem; color: var(--muted); }
+
+  details { border-bottom: 1px solid var(--line); padding: .7rem 0; }
+  details summary { cursor: pointer; font-weight: 600; }
+  details p { color: var(--muted); margin: .6rem 0 .2rem; }
+
+  footer { border-top: 1px solid var(--line); padding: 28px 0 48px; font-size: .85rem; color: var(--muted); }
+  footer a { color: var(--muted); }
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does it really work without an internet connection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. After the initial setup, Tomesi no longer needs the internet: the AI model runs entirely on your iPhone. Try it yourself in airplane mode."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do my conversations and documents go?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nowhere. They stay on your phone. Tomesi has no conversation servers, no user accounts, no ads. See our privacy policy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is it different from ChatGPT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ChatGPT lives on servers: it needs a connection, and your exchanges pass through them. Tomesi lives on your iPhone: less encyclopedic than a cloud giant, but always available, fully private, and subscription-free."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why a one-time purchase instead of a subscription?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because Tomesi has no server costs: the AI runs on your device. You buy the app once, and that's it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which iPhone do I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An iPhone 15 Pro or newer, with 8 GB of RAM and iOS 26 or later, plus about 4 GB of free space for the standard assistant."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which languages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tomesi is localized in 13 languages (English, French, German, Spanish, Italian, Dutch, Polish, Portuguese, Japanese, Korean, Simplified Chinese, Russian…) and the assistant understands and answers in even more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is MonIA the same app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. MonIA is now called Tomesi, and the website monia.info is now tomesi.com. If you already bought it, there is nothing to buy again: just update, and your conversations stay on your phone."
+      }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="hero-text" style="flex-basis: 100%; margin-bottom: -8px;">
+      <div class="brand">
+        <img src="assets/apple-touch-icon.png" alt="" width="44" height="44">
+        <strong>Tomesi</strong>
+        <nav>
+          <a href="support.html">Support</a>
+          <a href="index.html" lang="fr">Français</a>
+        </nav>
+      </div>
+    </div>
+    <div class="hero-text">
+      <h1>Your AI assistant.<br>Even without internet.</h1>
+      <p class="tagline">Tomesi answers your questions right on your iPhone — on a plane, abroad, off the
+      grid. Your conversations never leave your phone.</p>
+      <a class="cta" href="https://apps.apple.com/app/id6783248212">Download on the App&nbsp;Store</a>
+    </div>
+    <div class="hero-shot">
+      <img src="assets/screen-chat-en.jpg" alt="Screenshot of Tomesi: a conversation with the AI assistant on iPhone" width="640" height="1389">
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <h2>Why Tomesi?</h2>
+    <div class="cards">
+      <div class="card">
+        <div class="pic">✈️</div>
+        <h3>100% offline</h3>
+        <p>The AI is installed on your iPhone. Airplane mode, mountains, open sea: Tomesi answers — no
+        network, no roaming fees.</p>
+      </div>
+      <div class="card">
+        <div class="pic">🔒</div>
+        <h3>Private by design</h3>
+        <p>Nothing is sent to the internet, nothing is stored anywhere but on your device. No account, no
+        data collection — not a promise, the app's very architecture.</p>
+      </div>
+      <div class="card">
+        <div class="pic">💵</div>
+        <h3>No subscription</h3>
+        <p>Pay once, own it. No monthly fee, no credits, no premium tier.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>How it works</h2>
+    <ol class="steps">
+      <li><b>Download Tomesi</b> from the App&nbsp;Store.</li>
+      <li><b>Let the assistant set itself up.</b> On first launch, Tomesi installs its AI model on your
+      phone (~1.7&nbsp;GB, one time only — the app stays usable meanwhile).</li>
+      <li><b>Chat, anywhere.</b> Write, translate, summarize a document, get answers — with or without a
+      connection.</li>
+    </ol>
+    <p class="steps-note">Tip: an optional "Precision" mode downloads a more powerful model (~3&nbsp;GB)
+    for answers that need extra depth.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>What’s new — version&nbsp;1.1</h2>
+    <div class="cards">
+      <div class="card">
+        <div class="pic">🎙️</div>
+        <h3>Voice conversation</h3>
+        <p>Tap the microphone and speak: your question is sent by itself after a short pause, and the reply
+        is read aloud. Dictation and read-aloud work in every conversation.</p>
+      </div>
+      <div class="card">
+        <div class="pic">📄</div>
+        <h3>Scan &amp; attachments</h3>
+        <p>Scan a paper document or attach a PDF to a message and ask about it. Find past discussions with
+        the new conversation search.</p>
+      </div>
+      <div class="card">
+        <div class="pic">⚡</div>
+        <h3>Precision, new engine</h3>
+        <p>Precision mode has a new engine: faster, better replies with less heat.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Frequently asked questions</h2>
+    <details>
+      <summary>Does it really work without an internet connection?</summary>
+      <p>Yes. After the initial setup, Tomesi no longer needs the internet: the AI model runs entirely on
+      your iPhone. Try it yourself in airplane mode.</p>
+    </details>
+    <details>
+      <summary>Where do my conversations and documents go?</summary>
+      <p>Nowhere. They stay on your phone. Tomesi has no conversation servers, no user accounts, no ads.
+      See our <a href="privacy_en.html">privacy policy</a>.</p>
+    </details>
+    <details>
+      <summary>How is it different from ChatGPT?</summary>
+      <p>ChatGPT lives on servers: it needs a connection, and your exchanges pass through them. Tomesi
+      lives on your iPhone: less encyclopedic than a cloud giant, but always available, fully private, and
+      subscription-free.</p>
+    </details>
+    <details>
+      <summary>Why a one-time purchase instead of a subscription?</summary>
+      <p>Because Tomesi has no server costs: the AI runs on your device. You buy the app once, and that's
+      it.</p>
+    </details>
+    <details>
+      <summary>Which iPhone do I need?</summary>
+      <p>An iPhone 15 Pro or newer, with 8&nbsp;GB of RAM and iOS&nbsp;26 or later, plus about 4&nbsp;GB of
+      free space for the standard assistant.</p>
+    </details>
+    <details>
+      <summary>Which languages?</summary>
+      <p>Tomesi is localized in 13 languages (English, French, German, Spanish, Italian, Dutch, Polish,
+      Portuguese, Japanese, Korean, Simplified Chinese, Russian…) and the assistant understands and answers
+      in even more.</p>
+    </details>
+    <details>
+      <summary>Is MonIA the same app?</summary>
+      <p>Yes. MonIA is now called Tomesi, and the website monia.info is now tomesi.com. If you already bought it,
+      there is nothing to buy again: just update, and your conversations stay on your phone.</p>
+    </details>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Questions?</h2>
+    <p>Write to us: <a href="mailto:support@tomesi.com?subject=Tomesi%20%E2%80%94%20Support"><strong>support@tomesi.com</strong></a>
+    — we reply quickly, and your feedback shapes upcoming versions.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>© Tomesi ·
+    <a href="support.html">Support &amp; legal</a> ·
+    <a href="privacy_en.html">Privacy</a> ·
+    <a href="terms_en.html">Terms</a> ·
+    <a href="open_source_notices.html">Open source</a> ·
+    <a href="offline-ai-iphone.html">Guide: offline AI on iPhone</a></p>
+    <p><a href="index.html" lang="fr" hreflang="fr">Français</a> · <a href="en.html" lang="en" hreflang="en">English</a> · <a href="de/" lang="de" hreflang="de">Deutsch</a> · <a href="es/" lang="es" hreflang="es">Español</a> · <a href="it/" lang="it" hreflang="it">Italiano</a> · <a href="nl/" lang="nl" hreflang="nl">Nederlands</a> · <a href="pl/" lang="pl" hreflang="pl">Polski</a> · <a href="pt-br/" lang="pt-BR" hreflang="pt-BR">Português (Brasil)</a> · <a href="pt-pt/" lang="pt-PT" hreflang="pt-PT">Português (Portugal)</a> · <a href="ja/" lang="ja" hreflang="ja">日本語</a> · <a href="ko/" lang="ko" hreflang="ko">한국어</a> · <a href="ru/" lang="ru" hreflang="ru">Русский</a> · <a href="zh/" lang="zh-Hans" hreflang="zh-Hans">简体中文</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
