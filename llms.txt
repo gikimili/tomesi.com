@@ -4,7 +4,7 @@
 
 ## Key facts
 
-- Platform: iPhone 15 Pro or newer (8 GB of RAM) with iOS 26 or later. App Store: https://apps.apple.com/app/id6783248212
+- Platform: iPhone 15 Pro or newer (8 GB of RAM) with iOS 26 or later. App Store: https://apps.apple.com/app/apple-store/id6783248212?pt=129072363&ct=site&mt=8
 - Privacy: everything is processed on the device. App Store privacy label: "Data Not Collected". No account, no analytics, no tracking.
 - Offline use: the AI model is downloaded once through Apple's delivery system (about 1.7 GB). After that, no connection is needed.
 - Models: open-weight models run on the iPhone with Apple MLX. Standard mode uses Qwen 3.5 2B. The optional Precision mode (about 3 GB more) uses Gemma 4 E2B for more accurate answers.
