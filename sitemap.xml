@@ -278,4 +278,436 @@
     <loc>https://tomesi.com/open_source_notices.html</loc>
     <lastmod>2026-09-15</lastmod>
   </url>
+  <url>
+    <loc>https://tomesi.com/garden/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/en.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/de.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/es.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/pt.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/pt-br.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/nl.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/pl.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/ru.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/ja.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/ko.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/zh.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.en.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.de.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.es.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.pt.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.pt-br.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.nl.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.pl.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.ru.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.ja.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.ko.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/legal.zh.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/legal.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/legal.en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tomesi.com/garden/legal.de.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tomesi.com/garden/legal.es.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://tomesi.com/garden/legal.pt.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tomesi.com/garden/legal.pt-br.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tomesi.com/garden/legal.nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tomesi.com/garden/legal.pl.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tomesi.com/garden/legal.ru.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tomesi.com/garden/legal.ja.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tomesi.com/garden/legal.ko.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://tomesi.com/garden/legal.zh.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tomesi.com/garden/legal.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/privacy.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/privacy.en.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/privacy.en.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/privacy.en.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/terms.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/terms.en.html"/>
+  </url>
+  <url>
+    <loc>https://tomesi.com/garden/terms.en.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tomesi.com/garden/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tomesi.com/garden/terms.en.html"/>
+  </url>
 </urlset>
