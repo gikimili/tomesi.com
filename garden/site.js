@@ -23,7 +23,6 @@
   const image = document.querySelector("#place-image");
   const full = document.querySelector("#place-full");
   const description = document.querySelector("#place-description");
-  const pondOptions = document.querySelector("#pond-options");
   const setScene = (file, alt) => {
     image.src = "assets/images/" + file + ".webp";
     image.alt = alt;
@@ -34,12 +33,6 @@
     const key = button.dataset.place;
     setScene(key, sceneLabel(places[key][0]));
     description.textContent = places[key][1];
-    pondOptions.hidden = key !== "pond";
-    document.querySelectorAll("[data-pond]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.pond === "pond")));
-  }));
-  document.querySelectorAll("[data-pond]").forEach(button => button.addEventListener("click", () => {
-    document.querySelectorAll("[data-pond]").forEach(b => b.setAttribute("aria-pressed", String(b === button)));
-    setScene(button.dataset.pond, sceneLabel(places.pond[0] + " · " + button.textContent.trim()));
   }));
 
   const cache = new Map();
